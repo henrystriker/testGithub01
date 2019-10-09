@@ -8,8 +8,7 @@ class Program
 {
     static void Main(string[] args)
     {
-		int a = 2;
-		int b = 1;
-		int c = b;
+		// I went back to change 1
+		int a = 1;	
 	}
 }
